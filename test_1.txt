@@ -2,5 +2,6 @@
 <name> Zhanna </name>
 <age> 100 </age>
 <status> Married </status>
-
+<number>2022</number>
+<month>January</month>
 
